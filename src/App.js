@@ -3,7 +3,7 @@ import './App.css'
 import Table from './components/Table'
 
 
-
+let baseURL = `https://melee-ironman.herokuapp.com`
 
 
 class App extends Component {
@@ -22,7 +22,7 @@ class App extends Component {
   }
 
   getCharacters = () => {
-    fetch('/characters')
+    fetch(baseURL + `characters`)
     // .then(res => console.log(res))
     .then(response => response.json())
     .then(json => {
