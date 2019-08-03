@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://melee-ironman.herokuapp.com",
-  "homepage": "https://victormrecabarren.github.io/melee-ironman.github.io/",
+  "homepage": "https://victormrecabarren.github.io/melee-ironman",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@svgr/webpack": "4.1.0",
