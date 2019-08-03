@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://melee-ironman.herokuapp.com",
-  "homepage": "https://victormrecabarren.github.io/melee-ironman",
+  "homepage": "https://victormrecabarren.github.io/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "2.0",
