@@ -2,7 +2,7 @@
   "name": "ironman_client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://melee-ironman.herokuapp.com/",
+  "proxy": "https://melee-ironman.herokuapp.com",
   "homepage": "https://victormrecabarren.github.io/melee-ironman",
   "dependencies": {
     "bootstrap": "^4.3.1",
