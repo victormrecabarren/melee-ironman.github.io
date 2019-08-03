@@ -22,7 +22,7 @@ class App extends Component {
   }
 
   getCharacters = () => {
-    fetch(baseURL + `characters`)
+    fetch(baseURL + `/characters`)
     // .then(res => console.log(res))
     .then(response => response.json())
     .then(json => {
