@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee11053d.chunk.css",
-    "main.js": "/static/js/main.ba90038d.chunk.js",
-    "main.js.map": "/static/js/main.ba90038d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.c6d22b0a.chunk.js": "/static/js/2.c6d22b0a.chunk.js",
-    "static/js/2.c6d22b0a.chunk.js.map": "/static/js/2.c6d22b0a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.914ccf35e034e3105d7e9d1f106a4802.js": "/precache-manifest.914ccf35e034e3105d7e9d1f106a4802.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.ee11053d.chunk.css.map": "/static/css/main.ee11053d.chunk.css.map"
+    "main.css": "/melee-ironman/static/css/main.ee11053d.chunk.css",
+    "main.js": "/melee-ironman/static/js/main.c8ebc13b.chunk.js",
+    "main.js.map": "/melee-ironman/static/js/main.c8ebc13b.chunk.js.map",
+    "runtime~main.js": "/melee-ironman/static/js/runtime~main.9fe196d4.js",
+    "runtime~main.js.map": "/melee-ironman/static/js/runtime~main.9fe196d4.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/melee-ironman/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.c6d22b0a.chunk.js": "/melee-ironman/static/js/2.c6d22b0a.chunk.js",
+    "static/js/2.c6d22b0a.chunk.js.map": "/melee-ironman/static/js/2.c6d22b0a.chunk.js.map",
+    "index.html": "/melee-ironman/index.html",
+    "precache-manifest.c7665ab402efc34d16fde2a5f0803bf9.js": "/melee-ironman/precache-manifest.c7665ab402efc34d16fde2a5f0803bf9.js",
+    "service-worker.js": "/melee-ironman/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/melee-ironman/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.ee11053d.chunk.css.map": "/melee-ironman/static/css/main.ee11053d.chunk.css.map"
   }
 }
