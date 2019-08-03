@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfcc322698d94e4792c0266019bdd0f5",
+    "revision": "1cfa1840d0d2a7582eb7fa981fbad710",
     "url": "/melee-ironman/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/melee-ironman/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "6c283b848bf1e7f1d925",
+    "revision": "f1ddf43b17d89687f7ba",
     "url": "/melee-ironman/static/css/main.4cf40208.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/melee-ironman/static/js/2.c6d22b0a.chunk.js"
   },
   {
-    "revision": "6c283b848bf1e7f1d925",
-    "url": "/melee-ironman/static/js/main.50ccaa48.chunk.js"
+    "revision": "f1ddf43b17d89687f7ba",
+    "url": "/melee-ironman/static/js/main.b3f9f0cd.chunk.js"
   },
   {
     "revision": "82aa760228696dcc58e0",
