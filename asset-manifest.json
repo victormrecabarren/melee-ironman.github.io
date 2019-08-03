@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/melee-ironman/static/css/main.ee11053d.chunk.css",
+    "main.css": "/melee-ironman/static/css/main.4cf40208.chunk.css",
     "main.js": "/melee-ironman/static/js/main.c8ebc13b.chunk.js",
     "main.js.map": "/melee-ironman/static/js/main.c8ebc13b.chunk.js.map",
     "runtime~main.js": "/melee-ironman/static/js/runtime~main.9fe196d4.js",
@@ -9,9 +9,9 @@
     "static/js/2.c6d22b0a.chunk.js": "/melee-ironman/static/js/2.c6d22b0a.chunk.js",
     "static/js/2.c6d22b0a.chunk.js.map": "/melee-ironman/static/js/2.c6d22b0a.chunk.js.map",
     "index.html": "/melee-ironman/index.html",
-    "precache-manifest.c7665ab402efc34d16fde2a5f0803bf9.js": "/melee-ironman/precache-manifest.c7665ab402efc34d16fde2a5f0803bf9.js",
+    "precache-manifest.3a7847602d2a25963a4390f264bf3a5f.js": "/melee-ironman/precache-manifest.3a7847602d2a25963a4390f264bf3a5f.js",
     "service-worker.js": "/melee-ironman/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/melee-ironman/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.ee11053d.chunk.css.map": "/melee-ironman/static/css/main.ee11053d.chunk.css.map"
+    "static/css/main.4cf40208.chunk.css.map": "/melee-ironman/static/css/main.4cf40208.chunk.css.map"
   }
 }
