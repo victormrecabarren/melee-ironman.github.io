@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/melee-ironman/static/css/main.4cf40208.chunk.css",
-    "main.js": "/melee-ironman/static/js/main.50ccaa48.chunk.js",
-    "main.js.map": "/melee-ironman/static/js/main.50ccaa48.chunk.js.map",
+    "main.js": "/melee-ironman/static/js/main.b3f9f0cd.chunk.js",
+    "main.js.map": "/melee-ironman/static/js/main.b3f9f0cd.chunk.js.map",
     "runtime~main.js": "/melee-ironman/static/js/runtime~main.9fe196d4.js",
     "runtime~main.js.map": "/melee-ironman/static/js/runtime~main.9fe196d4.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/melee-ironman/static/css/2.22a7d4ef.chunk.css",
     "static/js/2.c6d22b0a.chunk.js": "/melee-ironman/static/js/2.c6d22b0a.chunk.js",
     "static/js/2.c6d22b0a.chunk.js.map": "/melee-ironman/static/js/2.c6d22b0a.chunk.js.map",
     "index.html": "/melee-ironman/index.html",
-    "precache-manifest.407566e0527cd0badca590a00c825e6b.js": "/melee-ironman/precache-manifest.407566e0527cd0badca590a00c825e6b.js",
+    "precache-manifest.62f3d4c108c9a183d5817e8e1508308b.js": "/melee-ironman/precache-manifest.62f3d4c108c9a183d5817e8e1508308b.js",
     "service-worker.js": "/melee-ironman/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/melee-ironman/static/css/2.22a7d4ef.chunk.css.map",
     "static/css/main.4cf40208.chunk.css.map": "/melee-ironman/static/css/main.4cf40208.chunk.css.map"
