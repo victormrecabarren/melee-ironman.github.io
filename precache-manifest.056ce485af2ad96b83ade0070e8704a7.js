@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64a6d6997d45062f18d0a4af9780832e",
+    "revision": "20a32987f2b01b2429ccf971465c5eaa",
     "url": "/melee-ironman/index.html"
   },
   {
