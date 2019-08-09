@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## A work in progress
+## A work in progress: Link to generator -- https://victormrecabarren.github.io/melee-ironman/
 ## Once complete, user will be able to :
 - Sign up for an account 
 - Randomize a new 2 player iron-man match
