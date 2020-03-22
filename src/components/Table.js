@@ -16,7 +16,7 @@ for (let i=1; i<=26; i++) {
 
 class Table extends Component {
   state = {
-    playerOneName: 'Player 1',
+    playerOneName: 'Player One',
     playerTwoName: 'Player 2',
     winner: winnerObject,
     playerOne: [],
